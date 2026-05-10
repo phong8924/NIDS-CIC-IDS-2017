@@ -164,6 +164,13 @@ Metrics are computed on the held-out test set (504,473 samples).
 
 ---
 
+## Full Report
+
+📄 View the detailed results report:  
+[`results/NIDS_Deep_Learning_Report_PhongNguyen.pdf`](results/NIDS_Deep_Learning_Report_PhongNguyen.pdf)
+
+---
+
 ## License
 
 This project is for educational and research purposes.
@@ -305,3 +312,8 @@ Kết quả trên tập kiểm thử độc lập (504.473 mẫu).
 ## Giấy phép
 
 Dự án phục vụ mục đích giáo dục và nghiên cứu.
+
+## Báo cáo kết quả
+
+📄 Xem báo cáo chi tiết tại:  
+[`results/NIDS_Deep_Learning_Report_PhongNguyen.pdf`](results/NIDS_Deep_Learning_Report_PhongNguyen.pdf)
