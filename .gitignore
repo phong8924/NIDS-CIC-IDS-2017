@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Data files
+*.pkl
+*.parquet
+*.csv
+
+# Model files
+*.keras
+*.h5
+*.hdf5
+
+# Notebook artifacts
+.ipynb_checkpoints/
+
+# Docs (project reports, not source)
+*.pdf
+
+
+# Local directories
+data/
+results/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
